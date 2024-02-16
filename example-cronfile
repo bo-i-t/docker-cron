@@ -1,0 +1,1 @@
+* * * * * echo "Hello ${PERSON_TO_GREET:-World}!" >> /var/log/cron.log 2>&1
