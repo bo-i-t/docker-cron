@@ -87,3 +87,7 @@ E.g. a bookworm based image could be build via
 ```
 docker build -t bo-i-t/docker-cron-bookworm --build-arg="DEBIAN_RELEASE=bookworm" https://github.com/bo-i-t/docker-cron.git
 ```
+
+# License
+
+This project is licensed under the terms of the MIT license.
