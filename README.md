@@ -76,7 +76,7 @@ will have the full tag `bo-i-t/docker-cron:latest`.
 
 It is recommended to fix the version by specifying full image and git tags when building the image like so:
 ```
-docker build -t bo-i-t/docker-cron:1.0.0 https://github.com/bo-i-t/docker-cron.git#1.0.0
+docker build -t bo-i-t/docker-cron:v1.0.0 https://github.com/bo-i-t/docker-cron.git#v1.0.0
 ```
 
 ### Build arguments
